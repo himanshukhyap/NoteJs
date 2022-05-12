@@ -1,0 +1,27 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshukhyap/NoteJS_Basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshukhyap/NoteJS_Basic/issues"
+  },
+  "homepage": "https://github.com/himanshukhyap/NoteJS_Basic#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.16",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  }
+}
