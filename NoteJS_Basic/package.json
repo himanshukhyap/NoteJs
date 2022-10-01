@@ -18,6 +18,8 @@
   "homepage": "https://github.com/himanshukhyap/NoteJS_Basic#readme",
   "dependencies": {
     "chalk": "^5.0.1",
+    "formidable": "^2.0.1",
+    "mongodb": "^4.6.0",
     "nodemon": "^2.0.16",
     "validator": "^13.7.0"
   },
